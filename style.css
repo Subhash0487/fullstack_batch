@@ -1,0 +1,19 @@
+
+        h1,h5{
+            font-size: 30px;
+            color: aqua;
+            font-style:italic;
+        }
+        h2{
+            font-size: 30px;
+            text-align: center;
+            font-style:italic;
+        }
+        h3{
+            font-size: 30px;
+            color: red;
+            font-style:italic;
+        }
+        div h1{
+            background-color: green;
+        }
